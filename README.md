@@ -37,6 +37,3 @@ Building agentic systems and AI products — hackathon winner (Google Cloud × E
 
 - **Hemolix.TabGen** — ACL 2026 (Industrial Track), San Diego, USA
   - Structured table generation via bi-dimensional hierarchical metadata + LLM-profile optimization.
-
-## More
-- Full achievements & extended project notes: **[Achievements](./Karthik_Vemireddy_Achievements.md)**
